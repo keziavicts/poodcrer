@@ -1,0 +1,43 @@
+{
+    "expanded": [
+        "introducao-",
+        "entendendo-classes-a-main-e-os-testes",
+        "listas-",
+        "arraylist-i---listas",
+        "arraylist-ii---arrays-de-null",
+        "arraylist-iii---composi\u00e7\u00e3o-e-enum",
+        "modificadores-de-acesso",
+        "agrega\u00e7\u00e3o-simples",
+        "polimorfismo-",
+        "heran\u00e7a-i"
+    ],
+    "tasks": {
+        "calculadora": "4:0:100",
+        "budega": "0:2:0"
+    },
+    "flags": {
+        "minimum": 0,
+        "reward": 0,
+        "percent": 0,
+        "admin": 0,
+        "config": 1,
+        "skills": 0
+    },
+    "new_items": [
+        "rascunhos",
+        "relacionamentos-nxn-",
+        "configuracao-",
+        "refer\u00eancias-cruzadas",
+        "mapas--exce\u00e7\u00f5es",
+        "em-atualiza\u00e7\u00e3o",
+        "melhorando-o-codigo-",
+        "operacoes-em-array-",
+        "estressados-b\u00e1sicos",
+        "conte\u00fado-extra",
+        "mapas--exce\u00e7\u00f5es-ii",
+        "estressados-avan\u00e7ado",
+        "futuro-"
+    ],
+    "lang": "ts",
+    "index": 9
+}
